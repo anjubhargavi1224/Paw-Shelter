@@ -22,8 +22,8 @@ This is a project based on web development where my team and I have created a re
 
 ## Features
 
-- **Beautiful Sleek UI:** 
-- **Responsive Design:** 
+- **Beautiful Sleek UI** 
+- **Responsive Design** 
 
 ## Technologies Used
 

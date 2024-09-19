@@ -20,9 +20,13 @@ This is a project based on web development where my team and I have created a re
 # Contact Page
 ![Screenshot 2024-09-19 112737](https://github.com/user-attachments/assets/5895b39c-842b-4fe3-aa4f-b08ac1e17074)
 
-# Features
-. HTML
-. CSS
-. JavaScript
-. PHP
+## Features
 
+- **Beautiful Sleek UI:** 
+- **Responsive Design:** 
+
+## Technologies Used
+
+- **HTML:** For structuring the web app.
+- **CSS:** For styling and making the app visually appealing.
+- **JavaScript:** For implementing functionality and interactivity.

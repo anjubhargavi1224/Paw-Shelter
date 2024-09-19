@@ -30,3 +30,4 @@ This is a project based on web development where my team and I have created a re
 - **HTML:** For structuring the web app.
 - **CSS:** For styling and making the app visually appealing.
 - **JavaScript:** For implementing functionality and interactivity.
+- **PHP:** For backend of the website.

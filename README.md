@@ -1,6 +1,13 @@
-# Paw-Shelter
+#  Paw Shelter - Animal Adoption & Donation Platform
 # Overview
-This is a project based on web development where my team and I have created a rescue website for the animals which are in need of shelter and donations for their look after. This project includes fronted and backend which consists of HTML , CSS , Java script and PHP.
+Paw Shelter is a user-friendly and responsive web application designed to connect animal lovers with pets in need of a home. The platform allows users to browse animals available for adoption and contribute through secure donations. Built using HTML, CSS, JavaScript, and PHP, this project focuses on creating a meaningful impact through technology while delivering a smooth user experience.
+
+
+# 🌐 Live Demo
+```sh
+https://fanciful-buttercream-9d14da.netlify.app/#home
+```
+
 
 #  Home Page
 ![Screenshot 2024-09-19 112419](https://github.com/user-attachments/assets/6698292d-fa90-4f9a-b762-1074c2798090)
@@ -22,12 +29,45 @@ This is a project based on web development where my team and I have created a re
 
 ## Features
 
+- **Animal Adoption**
 - **Beautiful Sleek UI** 
-- **Responsive Design** 
+- **Responsive Design**
+- **Dynamic Functionality**
 
 ## Technologies Used
 
-- **HTML:** For structuring the web app.
-- **CSS:** For styling and making the app visually appealing.
-- **JavaScript:** For implementing functionality and interactivity.
-- **PHP:** For backend of the website.
+- **HTML:** Structure of the web pages.
+- **CSS:** Styling and layout design.
+- **JavaScript:** Interactivity and dynamic behavior.
+- **PHP:** Backend functionality and form handling
+
+
+## Installation and Usage
+To run this project locally:
+
+**1. Clone the repository**
+ ```sh
+git clone https://github.com/anjubhargavi1224/Paw-Shelter.git
+```
+
+**2. Navigate to the project folder**
+ ```sh
+cd Paw-Shelter
+```
+
+**3. Run the project**
+- Open `index.html` in your browser
+ ```sh
+   open index.html
+   ```
+
+
+## Project Highlights
+- Designed an intuitive UI for better user experience
+- Implemented donation system with backend support
+- Created a platform that promotes animal welfare and adoption
+- Ensured responsive design for accessibility across devices
+
+## Acknowledgments
+- Developed as part of hands-on learning and project building
+- Inspired by real-world animal rescue platforms
